@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "0748031b06746030",
+    "type": "split",
+    "children": [
+      {
+        "id": "74eb86e19799a87a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfac08ca66a26393",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9cdd8da9b25c45d6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9cd1072fc121c3a2",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "68d8115df2ade1ca",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "3cbf442f090c5f0f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "bdb75ab73f466d94",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "5ab6dd1636b8fa6a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ac4d674aa3cdf854",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6c0b11903695b599",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "aaf88c2798e3d4ae",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "bfac08ca66a26393",
+  "lastOpenFiles": [
+    "Unde.md",
+    "Sinestezie.md",
+    "Unde sonore.md",
+    "Frecvente scăzute.md",
+    "Modulare acustică.md",
+    "Frecvențele înalte.md"
+  ]
+}

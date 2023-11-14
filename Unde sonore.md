@@ -1,0 +1,1 @@
+Undele sonore sunt variații periodice de presiune care se propagă printr-un mediu, de obicei, prin intermediul aerului, apei sau a altor substanțe materiale. Aceste unde mecanice necesită un mediu pentru a se deplasa și nu se pot propaga în vid. Sursa obișnuită a undelor sonore este vibrația unui obiect sau mișcarea de-a lungul unui mediu material.

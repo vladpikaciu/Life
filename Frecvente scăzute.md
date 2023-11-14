@@ -1,0 +1,3 @@
+Frecvențele scăzute în muzică sunt în general sub 250 Hz (hertz), dar acest interval poate varia în funcție de context și de interpretare. Instrumente precum contrabasul, tuba, bateria sau sintetizatoarele pot produce sunete în această gamă joasă.
+
+În sinestezie, unele persoane care experimentează asocieri între sunet și culoare pot percepe sunetele scăzute ca având culori mai întunecate sau mai profunde. Culorile asociate pot include nuanțe de maro, negru, violet închis sau verde închis. Este important să subliniez că aceste asocieri sunt subiective și pot varia semnificativ între indivizi.
