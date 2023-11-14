@@ -174,8 +174,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "39d96a595b5b0287",
+  "active": "ac42dd3434de07d4",
   "lastOpenFiles": [
+    "netlify.toml",
+    "New Text Document.txt",
     "Unde sonore.md",
     "Unde.md",
     "Frecvente scăzute.md",
