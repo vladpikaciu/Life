@@ -1,0 +1,1 @@
+Decodificatorul este un [[Circuit combinațional|circuit combinațional]] care efectuează operația inversă a unui [[Codificator|codificator]].

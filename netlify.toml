@@ -4,18 +4,18 @@ publish = "public"
 
 [build.environment]
 # (Optional) Text in landing page button
-LANDING_BUTTON = "Tipuri de unde"
+LANDING_BUTTON = "Informatica"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "Fizica este 🧠"
+LANDING_DESCRIPTION = "Informatica este 🧠"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "Unde"
+LANDING_PAGE = "Circuit"
 # (Optional) Site title on landing page
 LANDING_TITLE = "Scoala este super! 💖"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/vladpikaciu/Life"
 # (Optional) Site title in navbar
-SITE_TITLE = "Lucrare stiintifica"
+SITE_TITLE = ""
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL

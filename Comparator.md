@@ -1,0 +1,1 @@
+Comparatorul este un [[Circuit combinațional|circuit combinațional]] care compară numerele binare A și B.

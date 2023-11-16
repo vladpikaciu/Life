@@ -1,0 +1,1 @@
+Circuitele secvențiale reprezintă un tip de circuite digitale în care ieșirile depind nu numai de intrările actuale, ci și de starea anterioară a circuitului. Aceste circuite sunt esențiale în construirea sistemelor digitale complexe, cum ar fi procesoarele, memorii, și alte dispozitive care necesită stocarea și prelucrarea informațiilor.

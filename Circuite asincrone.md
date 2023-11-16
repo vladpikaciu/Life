@@ -1,0 +1,1 @@
+[[Circuite secvențiale|Circuitele secvențiale]] în care starea circuitului poate fi schimbată de semnalele de comandă în momente arbitrare de timp se numesc circuite asincrone.

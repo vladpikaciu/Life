@@ -1,0 +1,1 @@
+Codificatorul este un [[Circuit combinațional|circuit combinațional]] care efectuează conversiunea mesajelor în cuvinte binare din codul respectiv.

@@ -1,0 +1,1 @@
+Demultiplexorul distribuie fluxul de date de la una din intrările X la ieșirile Y sau Z. 

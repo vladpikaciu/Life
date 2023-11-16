@@ -1,0 +1,1 @@
+Multiplexorul este un [[Circuit combinațional|circuit combinațional]] destinat selectării fluxului de date.
