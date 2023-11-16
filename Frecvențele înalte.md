@@ -1,1 +1,0 @@
-Frecvențele înalte în muzică sunt în general în domeniul **2 kHz** (kilocicluri pe secundă) și mai sus. În cazul pianului, spre exemplu, frecvențele înalte corespund notelor de pe partea dreaptă a claviaturii. În orchestrație, instrumente precum flautul, vioara sau clarinetul pot produce sunete înalte.
